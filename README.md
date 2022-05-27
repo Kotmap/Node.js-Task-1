@@ -1,7 +1,6 @@
-# Node.js-Task
-step 1:
+Step 1:
 git clone {repository URL}
-step 2:
+Step 2:
 npm install
-step 3:
+Step 3:
 npm start
